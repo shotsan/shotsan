@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=shotsan)
-
 I am a doctoral student in the Electrical and Computer Engineering department at 
 Texas A&M University in College Station. My passion for building cellular networks
 was ignited by my master's advisor, Dr. Kiran Kuchi, at IIT Hyderabad. Under his 
@@ -16,3 +14,5 @@ I have a strong background in 3GPP technologies, including New Radio (5G), 4G-LT
 NB-IoT, and have made contributions to the standards. When I'm not working, you can find 
 me indulging in my hobbies as an [avid photographer](https://www.flickr.com/photos/195237800@N07), ham radio enthusiast with a general 
 class license (call sign: KI5AVL), and dedicated FC Barcelona fan who's always ready for a game of football.
+
+![](https://komarev.com/ghpvc/?username=shotsan)
