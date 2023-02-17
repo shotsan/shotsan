@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=shotsan)
+
 I am a doctoral student at the Electrical and Computer Engineering department at Texas A&M University, College Station. Inspired by my master's advisor at IIT, Hyderabad, Dr. Kiran Kuchi, I developed a serious interest in building cellular networks. He taught, encouraged, and gave the opportunity to develop cellular standards and build prototypes. My very first prototype modem was demonstrated at Mobile World Congress, 2017.
 
 I consider myself luckiest to have met my Doctoral Advisor, Dr. P. R. Kumar. He constantly shapes my thoughts to do better research and inspires me to solve some of the toughest challenges in wireless systems. He introduced me to the beautiful art of solving the most challenging systems problems in a minimalist way.
