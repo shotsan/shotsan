@@ -11,7 +11,7 @@ focus on millimeter-wave communication systems and the unique challenges of indo
 and outdoor environments.
 
 I have a strong background in 3GPP technologies, including New Radio (5G), 4G-LTE, and 
-NB-IoT, and have made contributions to the standards. When I'm not working, you can find 
+NB-IoT. I made contributions to the standards too. When I'm not working, you can find 
 me indulging in my hobbies as an [avid photographer](https://www.flickr.com/photos/195237800@N07), ham radio enthusiast with a general 
 class license (call sign: KI5AVL), and dedicated FC Barcelona fan who's always ready for a game of football.
 
