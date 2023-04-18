@@ -15,4 +15,5 @@ me indulging in my hobbies as an [avid photographer](https://www.flickr.com/phot
 class license (call sign: KI5AVL). A dedicated FC Barcelona fan, always up for a game of football.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shotsan&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shotsan&langs_count=5&theme=tokyonight)]()
