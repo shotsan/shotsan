@@ -14,7 +14,4 @@ NB-IoT. Fortunate to have made a few contributions to the standards too.
 When I'm not working, you can find me indulging in my hobbies as an [avid photographer](https://www.flickr.com/photos/195237800@N07),
 ham radio enthusiast, general class license (call sign: KI5AVL). A dedicated FC Barcelona fan, always up for a game of football.
 
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shotsan&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shotsan&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shotsan&count_private=true&theme=tokyonight&showicons=true)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shotsan&langs_count=5&theme=tokyonight)]()
