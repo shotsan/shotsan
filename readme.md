@@ -14,6 +14,13 @@ Past Research Interests:
 1. Wireless Networking: Cellular Standards and Networks
 2. IoT standards and Networking
 
-I specialize in designing, building, and deploying plug-and-play wireless systems, currently focussing on
+I specialize in designing, building, and deploying plug-and-play wireless systems.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shotsan&count_private=true&theme=tokyonight&showicons=true&cache_seconds=86400)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shotsan&langs_count=5&theme=tokyonight&cache_seconds=86400)]()
+</br>
+</br>
+</br>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shotsan&count_private=true&theme=tokyonight&showicons=true&cache_seconds=86400)]
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shotsan&langs_count=5&theme=tokyonight&cache_seconds=86400)]
