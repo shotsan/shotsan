@@ -1,5 +1,6 @@
+:raised_hand: I'm Santosh.
 
-PhD in Network Control, and Learning from Texas A&M university under [Dr. P. R. Kumar](https://cesg.tamu.edu/faculty/p-r-kumar/)
+I have PhD in Network Control, and Learning from Texas A&M university under [Dr. P. R. Kumar](https://cesg.tamu.edu/faculty/p-r-kumar/)
 
 
 Current Research Interests
@@ -10,7 +11,7 @@ Past Research Interests:
 1. Wireless Networking: Cellular Standards and Networks
 2. IoT standards and Networking
 
-I specialize in designing, building, and deploying plug-and-play wireless systems.
+I specialize in designing, building, and deploying plug-and-play intelligent systems.
 
 </br>
 </br>
