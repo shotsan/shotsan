@@ -1,6 +1,7 @@
 
 PhD in Network Control, and Learning from Texas A&M university under [Dr. P. R. Kumar](https://cesg.tamu.edu/faculty/p-r-kumar/)
 
+
 Current Research Interests
 1. Applying Learning for Large Scale Network Problems- Anamoly, Threat, and Connectivty
 2. Tackling Bias in Learning Problems
