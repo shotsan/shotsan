@@ -3,8 +3,8 @@ PhD in Network Control, and Learning from Texas A&M university under [Dr. P. R. 
 
 
 Current Research Interests
-1. Applying Learning for Large Scale Network Problems- Anamoly, Threat, and Connectivty
-2. Tackling Bias in Learning Problems
+1. Applying Machine Learning for Large Scale Network Problems
+2. Tackling Bias in Learning
 
 Past Research Interests:
 1. Wireless Networking: Cellular Standards and Networks
