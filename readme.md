@@ -4,7 +4,7 @@ I have PhD in Network Control, and Learning from Texas A&M university under [Dr.
 
 
 Current Research Interests
-1. Applying Machine Learning for Large Scale Network Problems
+1. Applying Machine Learning for Large Scale Problems
 2. Tackling Bias in Learning
 
 Past Research Interests:
