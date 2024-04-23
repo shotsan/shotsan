@@ -8,7 +8,7 @@ Current Research Interests
 2. Tackling Bias in Learning
 
 Past Research Interests:
-1. Wireless Networking: Cellular Standards and Networks
+1. Wireless Networking: Cellular Standards and Backbone Networks
 2. IoT standards and Networking
 
 I specialize in designing, building, and deploying plug-and-play intelligent systems.
