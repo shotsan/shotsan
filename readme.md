@@ -7,6 +7,8 @@ Current Research Interests
 1. Applying Machine Learning for Large Scale Problems
 2. Tackling Bias in Learning
 
+I was TA for ECEN 740 Machine Learning '22 and '24, Primary ML course at Texas A&M Electrical and Computer Engineering. 
+
 Past Research Interests:
 1. Wireless Networking: Cellular Standards and Backbone Networks
 2. IoT standards and Networking
