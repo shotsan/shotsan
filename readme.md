@@ -5,8 +5,7 @@ I have PhD in Network Control, and Learning from Texas A&M university under [Dr.
 
 Current Research Interests
 1. Applying Machine Learning for Large Scale Problems
-2. Tackling Bias in Learning
-3. Training Neural Nets and Large Language Models
+2. Training Neural Nets and Large Language Models
 
 I was TA for ECEN 740 Machine Learning '22 and '24, Primary ML course at Texas A&M Electrical and Computer Engineering. 
 
