@@ -19,6 +19,3 @@ I specialize in designing, building, and deploying plug-and-play intelligent sys
 </br>
 </br>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shotsan&count_private=true&theme=tokyonight&showicons=true&cache_seconds=86400)
-
-
