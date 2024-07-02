@@ -9,10 +9,6 @@ Current Research Interests
 
 I was TA for ECEN 740 Machine Learning '22 and '24, Primary ML course at Texas A&M Electrical and Computer Engineering. 
 
-Past Research Interests:
-1. Wireless Networking: Cellular Standards and Backbone Networks
-2. IoT standards and Networking
-
 I specialize in designing, building, and deploying plug-and-play intelligent systems.
 
 </br>
