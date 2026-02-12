@@ -12,7 +12,7 @@ I was TA for [ECEN 740 Machine Learning](https://ecen740tamu.github.io/) '22 and
 I specialize in designing, building, and deploying plug-and-play intelligent systems.
 
 
-I built Real-Time Voice agents for Learning, [Try it out](https://sarasvi-app.uc.r.appspot.com/)
+I built Real-Time Voice agents for Learning, [Try it out](https://tutorvi.com/)
 My recent endevours include working full-time contributing to web agents:  [Amazon Buy For Me](https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands)
 Worked on web maniputions to benefit agents, scraping for right selectors, addressing challenges in security, inference, and post-training of vision grounding models.
 
