@@ -19,6 +19,9 @@ Worked on web maniputions to benefit agents, scraping for right selectors, addre
 Occasionally developing general navigation and control policies of my [Unitree Go 2](https://shop.unitree.com/products/unitree-go2?srsltid=AfmBOoqcRQqCxSNPKLbUvFpLKRt6Tk1N9kWHanscn7P-5dtgEywKoJiW), and [AR4 6DOF robot](https://www.anninrobotics.com/)
 
 
+![Shotsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shotsan&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shotsan&layout=compact&theme=radical&hide_border=true)
+
 </br>
 </br>
 </br>
